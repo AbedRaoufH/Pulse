@@ -1,6 +1,6 @@
 # Vitals
 
-A minimalist hardware monitoring tool using C (for performance) and Python (for a simple GUI).
+A minimalist hardware monitoring tool Python
 
 ## 📌 Features (Planned)
 - [ ] Display CPU temperature
@@ -9,10 +9,6 @@ A minimalist hardware monitoring tool using C (for performance) and Python (for 
 - [ ] Show GPU usage and temp
 - [ ] Lightweight and cross-platform (eventually)
 
-## 🔧 Tech Stack
-- C (backend logic, system metrics)
-- Python (GUI using tkinter or PySimpleGUI)
-- ctypes (for C-Python bridge)
 
 ## 🚀 Goals
 - Clean, simple interface
@@ -20,4 +16,4 @@ A minimalist hardware monitoring tool using C (for performance) and Python (for 
 - Open to future expansions
 
 ## ❗ Status
-🚧 Work in progress — no code yet, just planning out the structure.
+🚧 Work in progress — no code yet, just planning out the structure. 

@@ -1,7 +1,7 @@
 # <img width="150" height="150" alt="PULSElogo-clear" src="https://github.com/user-attachments/assets/3c5d8315-77fd-4e4a-8682-b60c09cbfad6" /> Pulse
 
 
-A minimalist hardware monitoring tool Python
+A minimalist hardware monitoring tool using only Python
 
 ## 📌 Features (Planned)
 - [ ] Display CPU temperature
